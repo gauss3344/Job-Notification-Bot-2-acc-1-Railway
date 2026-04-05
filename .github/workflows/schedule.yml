@@ -1,0 +1,34 @@
+name: Railway Scheduler
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 20 * * *'  # Pause
+    - cron: '0 2 * * *'    # Resume
+
+jobs:
+
+  pause:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '40 17 * * *'
+
+    steps:
+      - name: Pause Railway Service
+        run: |
+          curl -X POST https://backboard.railway.app/graphql/v2 \
+          -H "Authorization: Bearer ${{ secrets.RAILWAY_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d '{"query":"mutation { serviceInstancePause(id: \"aa713bbd-e18a-4be4-b1b4-f1fd5b9ea624\") }"}'
+
+
+  resume:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 2 * * *'
+
+    steps:
+      - name: Resume Railway Service
+        run: |
+          curl -X POST https://backboard.railway.app/graphql/v2 \
+          -H "Authorization: Bearer ${{ secrets.RAILWAY_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d '{"query":"mutation { serviceInstanceResume(id: \"aa713bbd-e18a-4be4-b1b4-f1fd5b9ea624\") }"}'
