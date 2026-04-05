@@ -3,14 +3,14 @@ name: Railway Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 20 * * *'  # Pause
+    - cron: '20 20 * * *'  # Pause
     - cron: '0 2 * * *'    # Resume
 
 jobs:
 
   pause:
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '40 17 * * *'
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '20 20 * * *'
 
     steps:
       - name: Pause Railway Service
