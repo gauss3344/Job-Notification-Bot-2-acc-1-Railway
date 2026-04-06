@@ -3,9 +3,9 @@ import os
 
 def trigger_stop():
     api_token = os.getenv("RAILWAY_TOKEN")
-    project_id = "32a48d1b-d4a9-477f-91ac-0ae4b8048d71"
-    service_id = "bc2b59b7-91fb-44b9-b2bf-d0506ecf1335"
-    environment_id = "30545d52-6cbf-444a-97f1-6075a82a5312"
+    project_id = "2ce4c16d-0dd9-47b6-b67a-89ecb6963993"
+    service_id = "aa713bbd-e18a-4be4-b1b4-f1fd5b9ea624"
+    environment_id = "1a47c532-de5a-438a-813e-24ae07654e6e"
 
     url = "https://backboard.railway.app/graphql/v2"
     headers = {"Authorization": f"Bearer {api_token}", "Content-Type": "application/json"}
