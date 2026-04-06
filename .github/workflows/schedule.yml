@@ -3,13 +3,13 @@ name: Railway Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *' 
-    - cron: '0 17 * * *'  
+    - cron: '0 18 * * *' 
+    - cron: '27 10 * * *'  
 
 jobs:
   pause:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 9 * * *' || github.event_name == 'workflow_dispatch'
+    if: github.event.schedule == '27 10 * * *' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Pause Railway Service
         run: |
@@ -20,7 +20,7 @@ jobs:
 
   resume:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '0 17 * * *'
+    if: github.event.schedule == '0 18 * * *'
     steps:
       - name: Resume Railway Service
         run: |
