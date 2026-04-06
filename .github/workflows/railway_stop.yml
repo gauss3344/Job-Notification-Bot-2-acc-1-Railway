@@ -2,7 +2,7 @@ name: Railway Auto Stop
 
 on:
   schedule:
-    - cron: '25 13 * * *' 
+    - cron: '35 11 * * *' 
   workflow_dispatch:      # ম্যানুয়ালি স্টপ করার বাটন
 
 jobs:
