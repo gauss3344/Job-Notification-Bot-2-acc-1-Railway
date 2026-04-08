@@ -1,26 +1,4226 @@
 [
 {
-    "id": "Patuakhali Medical College",
-    "name": "পটুয়াখালী মেডিকেল কলেজ",
-    "url": "https://pkmc.college.gov.bd/pages/notices",
-    "base_url": "https://pkmc.college.gov.bd",
+    "id": "Debidwar Upazila",
+    "name": "দেবিদ্বার উপজেলা",
+    "url": "https://debidwar.comilla.gov.bd/pages/notices",
+    "base_url": "https://debidwar.comilla.gov.bd/",
     "selector": "table tbody tr",
     "selenium_enabled": false
    },
-   {
-    "id": "BIMRAD BD",
-    "name": "Bangladesh Institute of Maritime Research and Development",
-    "url": "https://bimradbd.org/job-circular",
-    "base_url": "https://bimradbd.org",
-    "selector": "div.col-lg-12 table tr td",
+{
+    "id": "Barura Upazila",
+    "name": "বরুড়া উপজেলা",
+    "url": "https://barura.comilla.gov.bd/pages/notices",
+    "base_url": "https://barura.comilla.gov.bd/",
+    "selector": "table tbody tr",
     "selenium_enabled": false
    },
-   {
-    "id": "National Uni",
-    "name": "National University",
-    "url": "https://www.nu.ac.bd/notice-career-opportunities.php",
-    "base_url": "https://www.nu.ac.bd/notice-career-opportunities.php",
-    "selector": "table tr td",
+{
+    "id": "Brahmanpara Upazila",
+    "name": "ব্রাহ্মণপাড়া উপজেলা",
+    "url": "https://brahmanpara.comilla.gov.bd/pages/notices",
+    "base_url": "https://brahmanpara.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chandina Upazila",
+    "name": "চান্দিনা উপজেলা",
+    "url": "https://chandina.comilla.gov.bd/pages/notices",
+    "base_url": "https://chandina.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chauddagram Upazila",
+    "name": "চৌদ্দগ্রাম উপজেলা",
+    "url": "https://chauddagram.comilla.gov.bd/pages/notices",
+    "base_url": "https://chauddagram.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Daudkandi Upazila",
+    "name": "দাউদকান্দি উপজেলা",
+    "url": "https://daudkandi.comilla.gov.bd/pages/notices",
+    "base_url": "https://daudkandi.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Homna Upazila",
+    "name": "হোমনা উপজেলা",
+    "url": "https://homna.comilla.gov.bd/pages/notices",
+    "base_url": "https://homna.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Laksam Upazila",
+    "name": "লাকসাম উপজেলা",
+    "url": "https://laksam.comilla.gov.bd/pages/notices",
+    "base_url": "https://laksam.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Muradnagar Upazila",
+    "name": "মুরাদনগর উপজেলা",
+    "url": "https://muradnagar.comilla.gov.bd/pages/notices",
+    "base_url": "https://muradnagar.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nangalkot Upazila",
+    "name": "নাঙ্গলকোট উপজেলা",
+    "url": "https://nangalkot.comilla.gov.bd/pages/notices",
+    "base_url": "https://nangalkot.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Comilla Sadar Upazila",
+    "name": "কুমিল্লা সদর উপজেলা",
+    "url": "https://comillasadar.comilla.gov.bd/pages/notices",
+    "base_url": "https://comillasadar.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Meghna Upazila",
+    "name": "মেঘনা উপজেলা",
+    "url": "https://meghna.comilla.gov.bd/pages/notices",
+    "base_url": "https://meghna.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manoharganj Upazila",
+    "name": "মনোহরগঞ্জ উপজেলা",
+    "url": "https://monohargonj.comilla.gov.bd/pages/notices",
+    "base_url": "https://monohargonj.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sadar Dakshin Upazila",
+    "name": "সদর দক্ষিণ উপজেলা",
+    "url": "https://sadarsouth.comilla.gov.bd/pages/notices",
+    "base_url": "https://sadarsouth.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Titas Upazila",
+    "name": "তিতাস উপজেলা",
+    "url": "https://titas.comilla.gov.bd/pages/notices",
+    "base_url": "https://titas.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Burichang Upazila",
+    "name": "বুড়িচং উপজেলা",
+    "url": "https://burichang.comilla.gov.bd/pages/notices",
+    "base_url": "https://burichang.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lalmai Upazila",
+    "name": "লালমাই উপজেলা",
+    "url": "https://lalmai.comilla.gov.bd/pages/notices",
+    "base_url": "https://lalmai.comilla.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chagalnaiya Upazila",
+    "name": "ছাগলনাইয়া উপজেলা উপজেলা",
+    "url": "https://chhagalnaiya.feni.gov.bd/pages/notices",
+    "base_url": "https://chhagalnaiya.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Feni Sadar Upazila",
+    "name": "ফেনী সদর উপজেলা",
+    "url": "https://sadar.feni.gov.bd/pages/notices",
+    "base_url": "https://sadar.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sonagazi Upazila",
+    "name": "সোনাগাজী উপজেলা উপজেলা",
+    "url": "https://sonagazi.feni.gov.bd/pages/notices",
+    "base_url": "https://sonagazi.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pholgazi Upazila",
+    "name": "ফুলগাজী উপজেলা উপজেলা",
+    "url": "https://fulgazi.feni.gov.bd/pages/notices",
+    "base_url": "https://fulgazi.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Parshuram Upazila",
+    "name": "পরশুরাম উপজেলা",
+    "url": "https://parshuram.feni.gov.bd/pages/notices",
+    "base_url": "https://parshuram.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Daganbhuiyan Upazila",
+    "name": "দাগনভূঞা উপজেলা",
+    "url": "https://daganbhuiyan.feni.gov.bd/pages/notices",
+    "base_url": "https://daganbhuiyan.feni.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Brahmanbaria Sadar Upazila",
+    "name": "ব্রাহ্মণবাড়িয়া সদর উপজেলা",
+    "url": "https://sadar.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://sadar.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kasba Upazila",
+    "name": "কসবা উপজেলা",
+    "url": "https://kasba.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://kasba.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nasirnagar Upazila",
+    "name": "নাসিরনগর উপজেলা",
+    "url": "https://nasirnagar.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://nasirnagar.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sarail Upazila",
+    "name": "সরাইল উপজেলা উপজেলা",
+    "url": "https://sarail.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://sarail.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ashuganj Upazila",
+    "name": "আশুগঞ্জ উপজেলা",
+    "url": "https://ashuganj.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://ashuganj.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Akhaura Upazila",
+    "name": "আখাউড়া উপজেলা",
+    "url": "https://akhaura.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://akhaura.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nabinagar Upazila",
+    "name": "নবীনগর উপজেলা",
+    "url": "https://nabinagar.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://nabinagar.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Banjharampur Upazila",
+    "name": "বাঞ্ছারামপুর উপজেলা",
+    "url": "https://bancharampur.brahmanbaria.gov.bd/pages/notices",
+    "base_url": "https://bancharampur.brahmanbaria.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rangamati Sadar Upazila",
+    "name": "রাঙ্গামাটি সদর উপজেলা",
+    "url": "https://sadar.rangamati.gov.bd/pages/notices",
+    "base_url": "https://sadar.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaptai Upazila",
+    "name": "কাপ্তাই উপজেলা",
+    "url": "https://kaptai.rangamati.gov.bd/pages/notices",
+    "base_url": "https://kaptai.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaukhali Upazila",
+    "name": "কাউখালী উপজেলা",
+    "url": "https://kawkhali.rangamati.gov.bd/pages/notices",
+    "base_url": "https://kawkhali.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baghaichhari Upazila",
+    "name": "বাঘাইছড়ি উপজেলা",
+    "url": "https://baghaichari.rangamati.gov.bd/pages/notices",
+    "base_url": "https://baghaichari.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barkal Upazila",
+    "name": "বরকল উপজেলা",
+    "url": "https://barkal.rangamati.gov.bd/pages/notices",
+    "base_url": "https://barkal.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Longadu Upazila",
+    "name": "লংগদু উপজেলা",
+    "url": "https://langadu.rangamati.gov.bd/pages/notices",
+    "base_url": "https://langadu.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajasthali Upazila",
+    "name": "রাজস্থলী উপজেলা",
+    "url": "https://rajasthali.rangamati.gov.bd/pages/notices",
+    "base_url": "https://rajasthali.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bilaichhari Upazila",
+    "name": "বিলাইছড়ি উপজেলা",
+    "url": "https://belaichari.rangamati.gov.bd/pages/notices",
+    "base_url": "https://belaichari.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jurachhari Upazila",
+    "name": "জুরাছড়ি উপজেলা",
+    "url": "https://juraichari.rangamati.gov.bd/pages/notices",
+    "base_url": "https://juraichari.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Naniarchar Upazila",
+    "name": "নানিয়ারচর উপজেলা",
+    "url": "https://naniarchar.rangamati.gov.bd/pages/notices",
+    "base_url": "https://naniarchar.rangamati.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Noakhali Upazila",
+    "name": "নোয়াখালী উপজেলা",
+    "url": "https://sadar.noakhali.gov.bd/pages/notices",
+    "base_url": "https://sadar.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Companiganj Upazila",
+    "name": "কোম্পানীগঞ্জ উপজেলা",
+    "url": "https://companiganj.noakhali.gov.bd/pages/notices",
+    "base_url": "https://companiganj.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Begumganj Upazila",
+    "name": "বেগমগঞ্জ উপজেলা",
+    "url": "https://begumganj.noakhali.gov.bd/pages/notices",
+    "base_url": "https://begumganj.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hatia Upazila",
+    "name": "হাতিয়া উপজেলা",
+    "url": "https://hatia.noakhali.gov.bd/pages/notices",
+    "base_url": "https://hatia.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Subarnachar Upazila",
+    "name": "সুবর্ণচর উপজেলা",
+    "url": "https://subarnachar.noakhali.gov.bd/pages/notices",
+    "base_url": "https://subarnachar.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kabirhat Upazila",
+    "name": "কবিরহাট উপজেলা",
+    "url": "https://kabirhat.noakhali.gov.bd/pages/notices",
+    "base_url": "https://kabirhat.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Senbag Upazila",
+    "name": "সেনবাগ উপজেলা",
+    "url": "https://senbug.noakhali.gov.bd/pages/notices",
+    "base_url": "https://senbug.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chatkhil Upazila",
+    "name": "চাটখিল উপজেলা",
+    "url": "https://chatkhil.noakhali.gov.bd/pages/notices",
+    "base_url": "https://chatkhil.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sonaimuri Upazila",
+    "name": "সোনাইমুড়ী উপজেলা",
+    "url": "https://sonaimuri.noakhali.gov.bd/pages/notices",
+    "base_url": "https://sonaimuri.noakhali.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Haimchar Upazila",
+    "name": "হাইমচর উপজেলা",
+    "url": "https://haimchar.chandpur.gov.bd/pages/notices",
+    "base_url": "https://haimchar.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kachua Upazila",
+    "name": "কচুয়া উপজেলা",
+    "url": "https://kachua.chandpur.gov.bd/pages/notices",
+    "base_url": "https://kachua.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shahrasti Upazila",
+    "name": "শাহরাস্তি উপজেলা",
+    "url": "https://shahrasti.chandpur.gov.bd/pages/notices",
+    "base_url": "https://shahrasti.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chandpur Sadar Upazila",
+    "name": "চাঁদপুর সদর উপজেলা",
+    "url": "https://sadar.chandpur.gov.bd/pages/notices",
+    "base_url": "https://sadar.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Matlab Upazila",
+    "name": "মতলব উপজেলা",
+    "url": "https://matlabsouth.chandpur.gov.bd/pages/notices",
+    "base_url": "https://matlabsouth.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Haziganj Upazila",
+    "name": "হাজীগঞ্জ উপজেলা",
+    "url": "https://hajiganj.chandpur.gov.bd/pages/notices",
+    "base_url": "https://hajiganj.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Matlab Upazila",
+    "name": "মতলব উপজেলা",
+    "url": "https://matlabnorth.chandpur.gov.bd/pages/notices",
+    "base_url": "https://matlabnorth.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Faridganj Upazila",
+    "name": "ফরিদগঞ্জ উপজেলা",
+    "url": "https://faridgonj.chandpur.gov.bd/pages/notices",
+    "base_url": "https://faridgonj.chandpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lakshmipur Sadar Upazila",
+    "name": "লক্ষ্মীপুর সদর উপজেলা",
+    "url": "https://sadar.lakshmipur.gov.bd/pages/notices",
+    "base_url": "https://sadar.lakshmipur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kamalnagar Upazila",
+    "name": "কমলনগর উপজেলা",
+    "url": "https://kamalnagar.lakshmipur.gov.bd/pages/notices",
+    "base_url": "https://kamalnagar.lakshmipur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Raipur Upazila",
+    "name": "রায়পুর উপজেলা",
+    "url": "https://raipur.lakshmipur.gov.bd/pages/notices",
+    "base_url": "https://raipur.lakshmipur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ramgati Upazila",
+    "name": "রামগতি উপজেলা",
+    "url": "https://ramgati.lakshmipur.gov.bd/pages/notices",
+    "base_url": "https://ramgati.lakshmipur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ramganj Upazila",
+    "name": "রামগঞ্জ উপজেলা",
+    "url": "https://ramganj.lakshmipur.gov.bd/pages/notices",
+    "base_url": "https://ramganj.lakshmipur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rangunia Upazila",
+    "name": "রাঙ্গুনিয়া উপজেলা",
+    "url": "https://rangunia.chittagong.gov.bd/pages/notices",
+    "base_url": "https://rangunia.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sitakunda Upazila Upazila",
+    "name": "সীতাকুন্ড উপজেলা উপজেলা",
+    "url": "https://sitakunda.chittagong.gov.bd/pages/notices",
+    "base_url": "https://sitakunda.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mirsarai Upazila",
+    "name": "মীরসরাই উপজেলা",
+    "url": "https://mirsharai.chittagong.gov.bd/pages/notices",
+    "base_url": "https://mirsharai.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patiya Upazila",
+    "name": "পটিয়া উপজেলা",
+    "url": "https://patiya.chittagong.gov.bd/pages/notices",
+    "base_url": "https://patiya.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sandwip Upazila",
+    "name": "সন্দ্বীপ উপজেলা",
+    "url": "https://sandwip.chittagong.gov.bd/pages/notices",
+    "base_url": "https://sandwip.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Banshkhali Upazila",
+    "name": "বাঁশখালী উপজেলা",
+    "url": "https://banshkhali.chittagong.gov.bd/pages/notices",
+    "base_url": "https://banshkhali.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Boalkhali Upazila",
+    "name": "বোয়ালখালী উপজেলা",
+    "url": "https://boalkhali.chittagong.gov.bd/pages/notices",
+    "base_url": "https://boalkhali.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Anowara Upazila",
+    "name": "আনোয়ারা উপজেলা",
+    "url": "https://anwara.chittagong.gov.bd/pages/notices",
+    "base_url": "https://anwara.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chandanaish Upazila",
+    "name": "চন্দনাইশ উপজেলা",
+    "url": "https://chandanaish.chittagong.gov.bd/pages/notices",
+    "base_url": "https://chandanaish.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Satkania Upazila",
+    "name": "সাতকানিয়া উপজেলা",
+    "url": "https://satkania.chittagong.gov.bd/pages/notices",
+    "base_url": "https://satkania.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lohagara Upazila",
+    "name": "লোহাগাড়া উপজেলা",
+    "url": "https://lohagara.chittagong.gov.bd/pages/notices",
+    "base_url": "https://lohagara.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hathazari Upazila",
+    "name": "হাটহাজারী উপজেলা",
+    "url": "https://hathazari.chittagong.gov.bd/pages/notices",
+    "base_url": "https://hathazari.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Fatikkhari Upazila",
+    "name": "ফটিকছড়ি উপজেলা",
+    "url": "https://fatikchhari.chittagong.gov.bd/pages/notices",
+    "base_url": "https://fatikchhari.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Raujan Upazila",
+    "name": "রাউজান উপজেলা",
+    "url": "https://raozan.chittagong.gov.bd/pages/notices",
+    "base_url": "https://raozan.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Karnaphuli Upazila",
+    "name": "কর্ণফুলী উপজেলা",
+    "url": "https://karnafuli.chittagong.gov.bd/pages/notices",
+    "base_url": "https://karnafuli.chittagong.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Cox's Bazar Sadar Upazila",
+    "name": "কক্সবাজার সদর উপজেলা",
+    "url": "https://sadar.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://sadar.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chakaria Upazila",
+    "name": "চকরিয়া উপজেলা",
+    "url": "https://chakaria.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://chakaria.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kutubdia Upazila",
+    "name": "কুতুবদিয়া উপজেলা",
+    "url": "https://kutubdia.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://kutubdia.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ukhia Upazila",
+    "name": "উখিয়া উপজেলা",
+    "url": "https://ukhiya.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://ukhiya.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Moheshkhali Upazila",
+    "name": "মহেশখালী উপজেলা",
+    "url": "https://moheshkhali.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://moheshkhali.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pekua Upazila",
+    "name": "পেকুয়া উপজেলা",
+    "url": "https://pekua.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://pekua.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ramu Upazila",
+    "name": "রামু উপজেলা",
+    "url": "https://ramu.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://ramu.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Teknaf Upazila",
+    "name": "টেকনাফ উপজেলা",
+    "url": "https://teknaf.coxsbazar.gov.bd/pages/notices",
+    "base_url": "https://teknaf.coxsbazar.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khagrachari Sadar Upazila",
+    "name": "খাগড়াছড়ি সদর উপজেলা",
+    "url": "https://sadar.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://sadar.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dighinala Upazila",
+    "name": "দিঘীনালা উপজেলা",
+    "url": "https://dighinala.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://dighinala.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Panchari Upazila",
+    "name": "পানছড়ি উপজেলা",
+    "url": "https://panchari.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://panchari.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lakhichhari Upazila",
+    "name": "লক্ষীছড়ি উপজেলা",
+    "url": "https://laxmichhari.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://laxmichhari.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mahalchhari Upazila",
+    "name": "মহালছড়ি উপজেলা",
+    "url": "https://mohalchari.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://mohalchari.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manikchhari Upazila",
+    "name": "মানিকছড়ি উপজেলা",
+    "url": "https://manikchari.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://manikchari.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ramgarh Upazila",
+    "name": "রামগড় উপজেলা",
+    "url": "https://ramgarh.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://ramgarh.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Matiranga Upazila",
+    "name": "মাটিরাঙ্গা উপজেলা",
+    "url": "https://matiranga.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://matiranga.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Guimara Upazila",
+    "name": "গুইমারা উপজেলা",
+    "url": "https://guimara.khagrachhari.gov.bd/pages/notices",
+    "base_url": "https://guimara.khagrachhari.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bandarban Sadar Upazila",
+    "name": "বান্দরবান সদর উপজেলা",
+    "url": "https://sadar.bandarban.gov.bd/pages/notices",
+    "base_url": "https://sadar.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Alikdam Upazila",
+    "name": "আলীকদম উপজেলা",
+    "url": "https://alikadam.bandarban.gov.bd/pages/notices",
+    "base_url": "https://alikadam.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Naikshongchhari Upazila",
+    "name": "নাইক্ষ্যংছড়ি উপজেলা",
+    "url": "https://naikhongchhari.bandarban.gov.bd/pages/notices",
+    "base_url": "https://naikhongchhari.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Roangchhari Upazila",
+    "name": "রোয়াংছড়ি উপজেলা",
+    "url": "https://rowangchhari.bandarban.gov.bd/pages/notices",
+    "base_url": "https://rowangchhari.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lama Upazila",
+    "name": "লামা উপজেলা",
+    "url": "https://lama.bandarban.gov.bd/pages/notices",
+    "base_url": "https://lama.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ruma Upazila",
+    "name": "রুমা উপজেলা",
+    "url": "https://ruma.bandarban.gov.bd/pages/notices",
+    "base_url": "https://ruma.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Thanchi Upazila",
+    "name": "থানচি উপজেলা",
+    "url": "https://thanchi.bandarban.gov.bd/pages/notices",
+    "base_url": "https://thanchi.bandarban.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Belkuchi Upazila",
+    "name": "বেলকুচি উপজেলা",
+    "url": "https://belkuchi.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://belkuchi.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chouhali Upazila",
+    "name": "চৌহালি উপজেলা",
+    "url": "https://chauhali.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://chauhali.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kamarkhand Upazila",
+    "name": "কামারখন্দ উপজেলা",
+    "url": "https://kamarkhand.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://kamarkhand.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kazipur Upazila",
+    "name": "কাজীপুর উপজেলা",
+    "url": "https://kazipur.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://kazipur.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Raiganj Upazila",
+    "name": "রায়গঞ্জ উপজেলা",
+    "url": "https://raigonj.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://raigonj.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shahzadpur Upazila",
+    "name": "শাহজাদপুর উপজেলা",
+    "url": "https://shahjadpur.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://shahjadpur.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sirajganj Upazila",
+    "name": "সিরাজগঞ্জ উপজেলা",
+    "url": "https://sirajganjsadar.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://sirajganjsadar.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tarash Upazila",
+    "name": "তাড়াশ উপজেলা",
+    "url": "https://tarash.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://tarash.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ullapara Upazila",
+    "name": "উল্লাপাড়া উপজেলা",
+    "url": "https://ullapara.sirajganj.gov.bd/pages/notices",
+    "base_url": "https://ullapara.sirajganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sujanagar Upazila",
+    "name": "সুজানগর উপজেলা",
+    "url": "https://sujanagar.pabna.gov.bd/pages/notices",
+    "base_url": "https://sujanagar.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ishwardi Upazila",
+    "name": "ঈশ্বরদী উপজেলা",
+    "url": "https://ishurdi.pabna.gov.bd/pages/notices",
+    "base_url": "https://ishurdi.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhangura Upazila",
+    "name": "ভাঙ্গুড়া উপজেলা",
+    "url": "https://bhangura.pabna.gov.bd/pages/notices",
+    "base_url": "https://bhangura.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pabna Sadar Upazila",
+    "name": "পাবনা সদর উপজেলা",
+    "url": "https://pabnasadar.pabna.gov.bd/pages/notices",
+    "base_url": "https://pabnasadar.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bera Upazila",
+    "name": "বেড়া উপজেলা",
+    "url": "https://bera.pabna.gov.bd/pages/notices",
+    "base_url": "https://bera.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Athgharia Upazila",
+    "name": "আটঘরিয়া উপজেলা",
+    "url": "https://atghoria.pabna.gov.bd/pages/notices",
+    "base_url": "https://atghoria.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chatmohar Upazila",
+    "name": "চাটমোহর উপজেলা",
+    "url": "https://chatmohar.pabna.gov.bd/pages/notices",
+    "base_url": "https://chatmohar.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Santia Upazila",
+    "name": "সাঁথিয়া উপজেলা",
+    "url": "https://santhia.pabna.gov.bd/pages/notices",
+    "base_url": "https://santhia.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Faridpur Upazila",
+    "name": "ফরিদপুর উপজেলা",
+    "url": "https://faridpur.pabna.gov.bd/pages/notices",
+    "base_url": "https://faridpur.pabna.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bogra Upazila",
+    "name": "বগুড়া উপজেলা",
+    "url": "https://bogura.gov.bd/pages/notices",
+    "base_url": "https://bogura.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kahalu Upazila",
+    "name": "কাহালু উপজেলা উপজেলা",
+    "url": "https://kahaloo.bogra.gov.bd/pages/notices",
+    "base_url": "https://kahaloo.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bogra Sadar Upazila",
+    "name": "বগুড়া সদর উপজেলা",
+    "url": "https://sadar.bogra.gov.bd/pages/notices",
+    "base_url": "https://sadar.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sariakandi Upazila",
+    "name": "সারিয়াকান্দি উপজেলা",
+    "url": "https://shariakandi.bogra.gov.bd/pages/notices",
+    "base_url": "https://shariakandi.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shajahanpur Upazila",
+    "name": "শাজাহানপুর উপজেলা",
+    "url": "https://shajahanpur.bogra.gov.bd/pages/notices",
+    "base_url": "https://shajahanpur.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dupchachiya Upazila Upazila",
+    "name": "দুপচাচিঁয়া উপজেলা উপজেলা",
+    "url": "https://dupchanchia.bogra.gov.bd/pages/notices",
+    "base_url": "https://dupchanchia.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Adamdighi Upazila",
+    "name": "আদমদিঘি উপজেলা উপজেলা",
+    "url": "https://adamdighi.bogra.gov.bd/pages/notices",
+    "base_url": "https://adamdighi.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nandigram Upazila",
+    "name": "নন্দিগ্রাম উপজেলা",
+    "url": "https://nondigram.bogra.gov.bd/pages/notices",
+    "base_url": "https://nondigram.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sonatala Upazila",
+    "name": "সোনাতলা উপজেলা উপজেলা",
+    "url": "https://sonatala.bogra.gov.bd/pages/notices",
+    "base_url": "https://sonatala.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhunat Upazila",
+    "name": "ধুনট উপজেলা উপজেলা",
+    "url": "https://dhunot.bogra.gov.bd/pages/notices",
+    "base_url": "https://dhunot.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gabatoli Upazila",
+    "name": "গাবতলী উপজেলা",
+    "url": "https://gabtali.bogra.gov.bd/pages/notices",
+    "base_url": "https://gabtali.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sherpur Upazila",
+    "name": "শেরপুর উপজেলা উপজেলা",
+    "url": "https://sherpur.bogra.gov.bd/pages/notices",
+    "base_url": "https://sherpur.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shibganj Upazila",
+    "name": "শিবগঞ্জ উপজেলা",
+    "url": "https://shibganj.bogra.gov.bd/pages/notices",
+    "base_url": "https://shibganj.bogra.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Paba Upazila",
+    "name": "পবা উপজেলা উপজেলা",
+    "url": "https://paba.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://paba.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Durgapur Upazila",
+    "name": "দুর্গাপুর উপজেলা উপজেলা",
+    "url": "https://durgapur.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://durgapur.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mohanpur Upazila",
+    "name": "মোহনপুর উপজেলা উপজেলা",
+    "url": "https://mohonpur.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://mohonpur.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Charghat Upazila",
+    "name": "চারঘাট উপজেলা উপজেলা",
+    "url": "https://charghat.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://charghat.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Puthia Upazila",
+    "name": "পুঠিয়া উপজেলা উপজেলা",
+    "url": "https://puthia.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://puthia.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagha Upazila",
+    "name": "বাঘা উপজেলা উপজেলা",
+    "url": "https://bagha.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://bagha.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Godagari Upazila",
+    "name": "গোদাগাড়ী উপজেলা উপজেলা",
+    "url": "https://godagari.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://godagari.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tanoor Upazila",
+    "name": "তানোর উপজেলা উপজেলা",
+    "url": "https://tanore.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://tanore.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagmara Upazila",
+    "name": "বাগমারা উপজেলা উপজেলা",
+    "url": "https://bagmara.rajshahi.gov.bd/pages/notices",
+    "base_url": "https://bagmara.rajshahi.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nator Sadar Upazila",
+    "name": "নাটোর সদর উপজেলা",
+    "url": "https://natoresadar.natore.gov.bd/pages/notices",
+    "base_url": "https://natoresadar.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Singra Upazila",
+    "name": "সিংড়া উপজেলা",
+    "url": "https://singra.natore.gov.bd/pages/notices",
+    "base_url": "https://singra.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baraigram Upazila",
+    "name": "বড়াইগ্রাম উপজেলা",
+    "url": "https://baraigram.natore.gov.bd/pages/notices",
+    "base_url": "https://baraigram.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagatipara Upazila",
+    "name": "বাগাতিপাড়া উপজেলা",
+    "url": "https://bagatipara.natore.gov.bd/pages/notices",
+    "base_url": "https://bagatipara.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lalpur Upazila",
+    "name": "লালপুর উপজেলা",
+    "url": "https://lalpur.natore.gov.bd/pages/notices",
+    "base_url": "https://lalpur.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gurudaspur Upazila",
+    "name": "গুরুদাসপুর উপজেলা",
+    "url": "https://gurudaspur.natore.gov.bd/pages/notices",
+    "base_url": "https://gurudaspur.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Naldanga Upazila",
+    "name": "নলডাঙ্গা উপজেলা",
+    "url": "https://naldanga.natore.gov.bd/pages/notices",
+    "base_url": "https://naldanga.natore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Akkelpur Upazila",
+    "name": "আক্কেলপুর উপজেলা উপজেলা",
+    "url": "https://akkelpur.joypurhat.gov.bd/pages/notices",
+    "base_url": "https://akkelpur.joypurhat.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalai Upazila",
+    "name": "কালাই উপজেলা উপজেলা",
+    "url": "https://kalai.joypurhat.gov.bd/pages/notices",
+    "base_url": "https://kalai.joypurhat.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khetlal Upazila",
+    "name": "ক্ষেতলাল উপজেলা উপজেলা",
+    "url": "https://khetlal.joypurhat.gov.bd/pages/notices",
+    "base_url": "https://khetlal.joypurhat.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Panchbibi Upazila",
+    "name": "পাঁচবিবি উপজেলা উপজেলা",
+    "url": "https://panchbibi.joypurhat.gov.bd/pages/notices",
+    "base_url": "https://panchbibi.joypurhat.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Joypurhat Sadar Upazila",
+    "name": "জয়পুরহাট সদর উপজেলা",
+    "url": "https://joypurhatsadar.joypurhat.gov.bd/pages/notices",
+    "base_url": "https://joypurhatsadar.joypurhat.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chapainawabganj Sadar Upazila",
+    "name": "চাঁপাইনবাবগঞ্জ সদর উপজেলা",
+    "url": "https://chapainawabganjsadar.chapainawabganj.gov.bd/pages/notices",
+    "base_url": "https://chapainawabganjsadar.chapainawabganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gomastapur Upazila",
+    "name": "গোমস্তাপুর উপজেলা",
+    "url": "https://gomostapur.chapainawabganj.gov.bd/pages/notices",
+    "base_url": "https://gomostapur.chapainawabganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nachol Upazila",
+    "name": "নাচোল উপজেলা",
+    "url": "https://nachol.chapainawabganj.gov.bd/pages/notices",
+    "base_url": "https://nachol.chapainawabganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bholahat Upazila",
+    "name": "ভোলাহাট উপজেলা",
+    "url": "https://bholahat.chapainawabganj.gov.bd/pages/notices",
+    "base_url": "https://bholahat.chapainawabganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shibganj Upazila",
+    "name": "শিবগঞ্জ উপজেলা",
+    "url": "https://shibganj.chapainawabganj.gov.bd/pages/notices",
+    "base_url": "https://shibganj.chapainawabganj.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mahadebpur Upazila",
+    "name": "মহাদেবপুর উপজেলা উপজেলা",
+    "url": "https://mohadevpur.naogaon.gov.bd/pages/notices",
+    "base_url": "https://mohadevpur.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Badalgachi Upazila",
+    "name": "বদলগাছী উপজেলা উপজেলা",
+    "url": "https://badalgachi.naogaon.gov.bd/pages/notices",
+    "base_url": "https://badalgachi.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patnitala Upazila",
+    "name": "পত্নিতলা উপজেলা উপজেলা",
+    "url": "https://patnitala.naogaon.gov.bd/pages/notices",
+    "base_url": "https://patnitala.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhamirhat Upazila",
+    "name": "ধামইরহাট উপজেলা উপজেলা",
+    "url": "https://dhamoirhat.naogaon.gov.bd/pages/notices",
+    "base_url": "https://dhamoirhat.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Niamatpur Upazila",
+    "name": "নিয়ামতপুর উপজেলা উপজেলা",
+    "url": "https://niamatpur.naogaon.gov.bd/pages/notices",
+    "base_url": "https://niamatpur.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manda Upazila Upazila",
+    "name": "মান্দা উপজেলা উপজেলা",
+    "url": "https://manda.naogaon.gov.bd/pages/notices",
+    "base_url": "https://manda.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Atrai Upazila",
+    "name": "আত্রাই উপজেলা উপজেলা",
+    "url": "https://atrai.naogaon.gov.bd/pages/notices",
+    "base_url": "https://atrai.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Raninagar Upazila",
+    "name": "রাণীনগর উপজেলা উপজেলা",
+    "url": "https://raninagar.naogaon.gov.bd/pages/notices",
+    "base_url": "https://raninagar.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Naogaon Sadar Upazila",
+    "name": "নওগাঁ সদর উপজেলা",
+    "url": "https://naogaonsadar.naogaon.gov.bd/pages/notices",
+    "base_url": "https://naogaonsadar.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Porsha Upazila",
+    "name": "পোরশা উপজেলা উপজেলা",
+    "url": "https://porsha.naogaon.gov.bd/pages/notices",
+    "base_url": "https://porsha.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sapahar Upazila",
+    "name": "সাপাহার উপজেলা",
+    "url": "https://sapahar.naogaon.gov.bd/pages/notices",
+    "base_url": "https://sapahar.naogaon.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Monirampur Upazila",
+    "name": "মণিরামপুর উপজেলা",
+    "url": "https://manirampur.jessore.gov.bd/pages/notices",
+    "base_url": "https://manirampur.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Abhaynagar Upazila",
+    "name": "অভয়নগর উপজেলা",
+    "url": "https://abhaynagar.jessore.gov.bd/pages/notices",
+    "base_url": "https://abhaynagar.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagharpara Upazila",
+    "name": "বাঘারপাড়া উপজেলা",
+    "url": "https://bagherpara.jessore.gov.bd/pages/notices",
+    "base_url": "https://bagherpara.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chowgacha Upazila",
+    "name": "চৌগাছা উপজেলা",
+    "url": "https://chougachha.jessore.gov.bd/pages/notices",
+    "base_url": "https://chougachha.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhikargacha Upazila",
+    "name": "ঝিকরগাছা উপজেলা",
+    "url": "https://jhikargacha.jessore.gov.bd/pages/notices",
+    "base_url": "https://jhikargacha.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Keshabpur Upazila",
+    "name": "কেশবপুর উপজেলা",
+    "url": "https://keshabpur.jessore.gov.bd/pages/notices",
+    "base_url": "https://keshabpur.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jasore Sadar Upazila",
+    "name": "যশোর সদর উপজেলা",
+    "url": "https://sadar.jessore.gov.bd/pages/notices",
+    "base_url": "https://sadar.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sharsha Upazila",
+    "name": "শার্শা উপজেলা",
+    "url": "https://sharsha.jessore.gov.bd/pages/notices",
+    "base_url": "https://sharsha.jessore.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ashasuni Upazila",
+    "name": "আশাশুনি উপজেলা",
+    "url": "https://assasuni.satkhira.gov.bd/pages/notices",
+    "base_url": "https://assasuni.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Debhata Upazila",
+    "name": "দেবহাটা উপজেলা",
+    "url": "https://debhata.satkhira.gov.bd/pages/notices",
+    "base_url": "https://debhata.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalaroa Upazila",
+    "name": "কলারোয়া উপজেলা",
+    "url": "https://kalaroa.satkhira.gov.bd/pages/notices",
+    "base_url": "https://kalaroa.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Satkhira Sadar Upazila",
+    "name": "সাতক্ষীরা সদর উপজেলা",
+    "url": "https://satkhirasadar.satkhira.gov.bd/pages/notices",
+    "base_url": "https://satkhirasadar.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shyamnagar Upazila",
+    "name": "শ্যামনগর উপজেলা",
+    "url": "https://shyamnagar.satkhira.gov.bd/pages/notices",
+    "base_url": "https://shyamnagar.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tala Upazila",
+    "name": "তালা উপজেলা",
+    "url": "https://tala.satkhira.gov.bd/pages/notices",
+    "base_url": "https://tala.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaliganj Upazila",
+    "name": "কালিগঞ্জ উপজেলা",
+    "url": "https://kaliganj.satkhira.gov.bd/pages/notices",
+    "base_url": "https://kaliganj.satkhira.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mujibnagar Upazila",
+    "name": "মুজিবনগর উপজেলা",
+    "url": "https://mujibnagar.meherpur.gov.bd/pages/notices",
+    "base_url": "https://mujibnagar.meherpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Meherpur Sadar Upazila",
+    "name": "মেহেরপুর সদর উপজেলা",
+    "url": "https://meherpursadar.meherpur.gov.bd/pages/notices",
+    "base_url": "https://meherpursadar.meherpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gangni Upazila",
+    "name": "গাংনী উপজেলা",
+    "url": "https://gangni.meherpur.gov.bd/pages/notices",
+    "base_url": "https://gangni.meherpur.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Narail Sadar Upazila",
+    "name": "নড়াইল সদর উপজেলা",
+    "url": "https://narailsadar.narail.gov.bd/pages/notices",
+    "base_url": "https://narailsadar.narail.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lohagra Upazila",
+    "name": "লোহাগড়া উপজেলা",
+    "url": "https://lohagara.narail.gov.bd/pages/notices",
+    "base_url": "https://lohagara.narail.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalia Upazila",
+    "name": "কালিয়া উপজেলা",
+    "url": "https://kalia.narail.gov.bd/pages/notices",
+    "base_url": "https://kalia.narail.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chuadanga Sadar Upazila",
+    "name": "চুয়াডাঙ্গা সদর উপজেলা",
+    "url": "https://chuadangasadar.chuadanga.gov.bd/pages/notices",
+    "base_url": "https://chuadangasadar.chuadanga.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Almadanga Upazila",
+    "name": "আলমডাঙ্গা উপজেলা",
+    "url": "https://alamdanga.chuadanga.gov.bd/pages/notices",
+    "base_url": "https://alamdanga.chuadanga.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Damurhuda Upazila",
+    "name": "দামুড়হুদা উপজেলা",
+    "url": "https://damurhuda.chuadanga.gov.bd/pages/notices",
+    "base_url": "https://damurhuda.chuadanga.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jibonnagar Upazila",
+    "name": "জীবননগর উপজেলা",
+    "url": "https://jibannagar.chuadanga.gov.bd/pages/notices",
+    "base_url": "https://jibannagar.chuadanga.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kushtia Sadar Upazila",
+    "name": "কুষ্টিয়া সদর উপজেলা",
+    "url": "https://kushtiasadar.kushtia.gov.bd/pages/notices",
+    "base_url": "https://kushtiasadar.kushtia.gov.bd/",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kumarkhali Upazila",
+    "name": "কুমারখালী উপজেলা",
+    "url": "http://kumarkhali.kushtia.gov.bd/pages/notices",
+    "base_url": "http://kumarkhali.kushtia.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khoksa Upazila",
+    "name": "খোকসা উপজেলা",
+    "url": "http://khoksa.kushtia.gov.bd/pages/notices",
+    "base_url": "http://khoksa.kushtia.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mirpur Upazila",
+    "name": "মিরপুর উপজেলা",
+    "url": "http://mirpur.kushtia.gov.bd/pages/notices",
+    "base_url": "http://mirpur.kushtia.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Daulatpur Upazila",
+    "name": "দৌলতপুর উপজেলা",
+    "url": "http://daulatpur.kushtia.gov.bd/pages/notices",
+    "base_url": "http://daulatpur.kushtia.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bheramara Upazila",
+    "name": "ভেড়ামারা উপজেলা",
+    "url": "http://bheramara.kushtia.gov.bd/pages/notices",
+    "base_url": "http://bheramara.kushtia.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Magura Upazila",
+    "name": "মাগুরা উপজেলা",
+    "url": "http://www.magura.gov.bd/pages/notices",
+    "base_url": "http://www.magura.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Salikha Upazila",
+    "name": "শালিখা উপজেলা",
+    "url": "http://shalikha.magura.gov.bd/pages/notices",
+    "base_url": "http://shalikha.magura.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sripur Upazila",
+    "name": "শ্রীপুর উপজেলা",
+    "url": "http://sreepur.magura.gov.bd/pages/notices",
+    "base_url": "http://sreepur.magura.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Magura Sadar Upazila",
+    "name": "মাগুরা সদর উপজেলা",
+    "url": "http://magurasadar.magura.gov.bd/pages/notices",
+    "base_url": "http://magurasadar.magura.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mohammadpur Upazila",
+    "name": "মহম্মদপুর উপজেলা",
+    "url": "http://mohammadpur.magura.gov.bd/pages/notices",
+    "base_url": "http://mohammadpur.magura.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khulna Upazila",
+    "name": "খুলনা উপজেলা",
+    "url": "http://www.khulna.gov.bd/pages/notices",
+    "base_url": "http://www.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Paikgacha Upazila",
+    "name": "পাইকগাছা উপজেলা",
+    "url": "http://paikgasa.khulna.gov.bd/pages/notices",
+    "base_url": "http://paikgasa.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Phultala Upazila",
+    "name": "ফুলতলা উপজেলা উপজেলা",
+    "url": "http://fultola.khulna.gov.bd/pages/notices",
+    "base_url": "http://fultola.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dighlia Upazila",
+    "name": "দিঘলিয়া উপজেলা উপজেলা",
+    "url": "http://digholia.khulna.gov.bd/pages/notices",
+    "base_url": "http://digholia.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rupsa Upazila",
+    "name": "রূপসা উপজেলা উপজেলা",
+    "url": "http://rupsha.khulna.gov.bd/pages/notices",
+    "base_url": "http://rupsha.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Terkhada Upazila",
+    "name": "তেরখাদা উপজেলা উপজেলা",
+    "url": "http://terokhada.khulna.gov.bd/pages/notices",
+    "base_url": "http://terokhada.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dumuria Upazila",
+    "name": "ডুমুরিয়া উপজেলা উপজেলা",
+    "url": "http://dumuria.khulna.gov.bd/pages/notices",
+    "base_url": "http://dumuria.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Batiaghata Upazila",
+    "name": "বটিয়াঘাটা উপজেলা",
+    "url": "http://botiaghata.khulna.gov.bd/pages/notices",
+    "base_url": "http://botiaghata.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dakop Upazila",
+    "name": "দাকোপ উপজেলা উপজেলা",
+    "url": "http://dakop.khulna.gov.bd/pages/notices",
+    "base_url": "http://dakop.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Koira Upazila",
+    "name": "কয়রা উপজেলা উপজেলা",
+    "url": "http://koyra.khulna.gov.bd/pages/notices",
+    "base_url": "http://koyra.khulna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagerhat Upazila",
+    "name": "বাগেরহাট উপজেলা",
+    "url": "http://www.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://www.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Fakirhat Upazila",
+    "name": "ফকিরহাট উপজেলা",
+    "url": "http://fakirhat.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://fakirhat.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bagerhat Sadar Upazila",
+    "name": "বাগেরহাট সদর উপজেলা",
+    "url": "http://sadar.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://sadar.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mollahat Upazila",
+    "name": "মোল্লাহাট উপজেলা",
+    "url": "http://mollahat.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://mollahat.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sharankhola Upazila",
+    "name": "শরণখোলা উপজেলা",
+    "url": "http://sarankhola.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://sarankhola.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rampal Upazila",
+    "name": "রামপাল উপজেলা",
+    "url": "http://rampal.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://rampal.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Morelganj Upazila",
+    "name": "মোড়েলগঞ্জ উপজেলা",
+    "url": "http://morrelganj.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://morrelganj.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kachua Upazila",
+    "name": "কচুয়া উপজেলা",
+    "url": "http://kachua.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://kachua.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mongla Upazila",
+    "name": "মোংলা উপজেলা",
+    "url": "http://mongla.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://mongla.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chitlmari Upazila",
+    "name": "চিতলমারী উপজেলা",
+    "url": "http://chitalmari.bagerhat.gov.bd/pages/notices",
+    "base_url": "http://chitalmari.bagerhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhenaidah Upazila",
+    "name": "ঝিনাইদহ উপজেলা",
+    "url": "http://www.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://www.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhenaidah Sadar Upazila",
+    "name": "ঝিনাইদহ সদর উপজেলা",
+    "url": "http://sadar.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://sadar.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shailkupa Upazila",
+    "name": "শৈলকুপা উপজেলা",
+    "url": "http://shailkupa.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://shailkupa.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Harinakundu Upazila",
+    "name": "হরিণাকুন্ডু উপজেলা",
+    "url": "http://harinakundu.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://harinakundu.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaliganj Upazila",
+    "name": "কালীগঞ্জ উপজেলা",
+    "url": "http://kaliganj.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://kaliganj.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kotchandpur Upazila",
+    "name": "কোটচাঁদপুর উপজেলা",
+    "url": "http://kotchandpur.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://kotchandpur.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Moheshpur Upazila",
+    "name": "মহেশপুর উপজেলা",
+    "url": "http://moheshpur.jhenaidah.gov.bd/pages/notices",
+    "base_url": "http://moheshpur.jhenaidah.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhalkathi Upazila",
+    "name": "ঝালকাঠি উপজেলা",
+    "url": "http://www.jhalakathi.gov.bd/pages/notices",
+    "base_url": "http://www.jhalakathi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhalkathi Sadar Upazila",
+    "name": "ঝালকাঠি সদর উপজেলা",
+    "url": "http://sadar.jhalakathi.gov.bd/pages/notices",
+    "base_url": "http://sadar.jhalakathi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kathalia Upazila",
+    "name": "কাঠালিয়া উপজেলা",
+    "url": "http://kathalia.jhalakathi.gov.bd/pages/notices",
+    "base_url": "http://kathalia.jhalakathi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nalchiti Upazila",
+    "name": "নলছিটি উপজেলা",
+    "url": "http://nalchity.jhalakathi.gov.bd/pages/notices",
+    "base_url": "http://nalchity.jhalakathi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajapur Upazila",
+    "name": "রাজাপুর উপজেলা",
+    "url": "http://rajapur.jhalakathi.gov.bd/pages/notices",
+    "base_url": "http://rajapur.jhalakathi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patuakhali Upazila",
+    "name": "পটুয়াখালী উপজেলা",
+    "url": "http://www.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://www.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baufal Upazila",
+    "name": "বাউফল উপজেলা",
+    "url": "http://bauphal.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://bauphal.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patuakhali Sadar Upazila",
+    "name": "পটুয়াখালী সদর উপজেলা",
+    "url": "http://sadar.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://sadar.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dumki Upazila",
+    "name": "দুমকি উপজেলা",
+    "url": "http://dumki.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://dumki.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dashmina Upazila",
+    "name": "দশমিনা উপজেলা",
+    "url": "http://dashmina.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://dashmina.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kolapara Upazila",
+    "name": "কলাপাড়া উপজেলা",
+    "url": "http://kalapara.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://kalapara.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mirjaganj Upazila",
+    "name": "মির্জাগঞ্জ উপজেলা",
+    "url": "http://mirzaganj.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://mirzaganj.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Galachipa Upazila",
+    "name": "গলাচিপা উপজেলা",
+    "url": "http://galachipa.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://galachipa.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rangabali Upazila",
+    "name": "রাঙ্গাবালী উপজেলা",
+    "url": "http://rangabali.patuakhali.gov.bd/pages/notices",
+    "base_url": "http://rangabali.patuakhali.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pirojpur Upazila",
+    "name": "পিরোজপুর উপজেলা",
+    "url": "http://www.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://www.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pirojpur Sadar Upazila",
+    "name": "পিরোজপুর সদর উপজেলা",
+    "url": "http://sadar.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://sadar.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nazirpur Upazila",
+    "name": "নাজিরপুর উপজেলা",
+    "url": "http://nazirpur.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://nazirpur.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaukhali Upazila",
+    "name": "কাউখালী উপজেলা",
+    "url": "http://kawkhali.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://kawkhali.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhandaria Upazila",
+    "name": "ভান্ডারিয়া উপজেলা",
+    "url": "http://bhandaria.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://bhandaria.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mathbaria Upazila",
+    "name": "মঠবাড়ীয়া উপজেলা",
+    "url": "http://mathbaria.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://mathbaria.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nesarabad Upazila",
+    "name": "নেছারাবাদ উপজেলা",
+    "url": "http://nesarabad.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://nesarabad.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Indurkani Upazila",
+    "name": "ইন্দুরকানী উপজেলা",
+    "url": "http://indurkani.pirojpur.gov.bd/pages/notices",
+    "base_url": "http://indurkani.pirojpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barisal Sadar Upazila",
+    "name": "বরিশাল সদর উপজেলা",
+    "url": "http://barisalsadar.barisal.gov.bd/pages/notices",
+    "base_url": "http://barisalsadar.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bakerganj Upazila",
+    "name": "বাকেরগঞ্জ উপজেলা",
+    "url": "http://bakerganj.barisal.gov.bd/pages/notices",
+    "base_url": "http://bakerganj.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Babuganj Upazila",
+    "name": "বাবুগঞ্জ উপজেলা",
+    "url": "http://babuganj.barisal.gov.bd/pages/notices",
+    "base_url": "http://babuganj.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Uzirpur Upazila",
+    "name": "উজিরপুর উপজেলা",
+    "url": "http://wazirpur.barisal.gov.bd/pages/notices",
+    "base_url": "http://wazirpur.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Banaripara Upazila",
+    "name": "বানারীপাড়া উপজেলা",
+    "url": "http://banaripara.barisal.gov.bd/pages/notices",
+    "base_url": "http://banaripara.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gournadi Upazila",
+    "name": "গৌরনদী উপজেলা",
+    "url": "http://gournadi.barisal.gov.bd/pages/notices",
+    "base_url": "http://gournadi.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Agailjhara Upazila",
+    "name": "আগৈলঝাড়া উপজেলা",
+    "url": "http://agailjhara.barisal.gov.bd/pages/notices",
+    "base_url": "http://agailjhara.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mehendiganj Upazila",
+    "name": "মেহেন্দিগঞ্জ উপজেলা",
+    "url": "http://mehendiganj.barisal.gov.bd/pages/notices",
+    "base_url": "http://mehendiganj.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Muladi Upazila",
+    "name": "মুলাদী উপজেলা",
+    "url": "http://muladi.barisal.gov.bd/pages/notices",
+    "base_url": "http://muladi.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hijla Upazila",
+    "name": "হিজলা উপজেলা",
+    "url": "http://hizla.barisal.gov.bd/pages/notices",
+    "base_url": "http://hizla.barisal.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhola Upazila",
+    "name": "ভোলা উপজেলা",
+    "url": "http://www.bhola.gov.bd/pages/notices",
+    "base_url": "http://www.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhola Sadar Upazila",
+    "name": "ভোলা সদর উপজেলা",
+    "url": "http://sadar.bhola.gov.bd/pages/notices",
+    "base_url": "http://sadar.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Borhan Uddin Upazila",
+    "name": "বোরহান উদ্দিন উপজেলা",
+    "url": "http://borhanuddin.bhola.gov.bd/pages/notices",
+    "base_url": "http://borhanuddin.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Daulatkhan Upazila",
+    "name": "দৌলতখান উপজেলা",
+    "url": "http://doulatkhan.bhola.gov.bd/pages/notices",
+    "base_url": "http://doulatkhan.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Monpura Upazila",
+    "name": "মনপুরা উপজেলা",
+    "url": "http://monpura.bhola.gov.bd/pages/notices",
+    "base_url": "http://monpura.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tjumuddin Upazila",
+    "name": "তজুমদ্দিন উপজেলা",
+    "url": "http://tazumuddin.bhola.gov.bd/pages/notices",
+    "base_url": "http://tazumuddin.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lalmohan Upazila",
+    "name": "লালমোহন উপজেলা",
+    "url": "http://lalmohan.bhola.gov.bd/pages/notices",
+    "base_url": "http://lalmohan.bhola.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barguna Upazila",
+    "name": "বরগুনা উপজেলা",
+    "url": "http://www.barguna.gov.bd/pages/notices",
+    "base_url": "http://www.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Amtali Upazila",
+    "name": "আমতলী উপজেলা",
+    "url": "http://amtali.barguna.gov.bd/pages/notices",
+    "base_url": "http://amtali.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barguna Sadar Upazila",
+    "name": "বরগুনা সদর উপজেলা",
+    "url": "http://sadar.barguna.gov.bd/pages/notices",
+    "base_url": "http://sadar.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Betagi Upazila Upazila",
+    "name": "বেতাগী উপজেলা উপজেলা",
+    "url": "http://betagi.barguna.gov.bd/pages/notices",
+    "base_url": "http://betagi.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bamna Upazila",
+    "name": "বামনা উপজেলা",
+    "url": "http://bamna.barguna.gov.bd/pages/notices",
+    "base_url": "http://bamna.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patharghata Upazila",
+    "name": "পাথরঘাটা উপজেলা",
+    "url": "http://pathorghata.barguna.gov.bd/pages/notices",
+    "base_url": "http://pathorghata.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Taltali Upazila",
+    "name": "তালতলি উপজেলা",
+    "url": "http://taltali.barguna.gov.bd/pages/notices",
+    "base_url": "http://taltali.barguna.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sylhet Upazila",
+    "name": "সিলেট উপজেলা",
+    "url": "http://www.sylhet.gov.bd/pages/notices",
+    "base_url": "http://www.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Balaganj Upazila",
+    "name": "বালাগঞ্জ উপজেলা",
+    "url": "http://balaganj.sylhet.gov.bd/pages/notices",
+    "base_url": "http://balaganj.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bianibazar Upazila",
+    "name": "বিয়ানীবাজার উপজেলা",
+    "url": "http://beanibazar.sylhet.gov.bd/pages/notices",
+    "base_url": "http://beanibazar.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bishwanath Upazila",
+    "name": "বিশ্বনাথ উপজেলা",
+    "url": "http://bishwanath.sylhet.gov.bd/pages/notices",
+    "base_url": "http://bishwanath.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Companiganj Upazila",
+    "name": "কোম্পানীগঞ্জ উপজেলা",
+    "url": "http://companiganj.sylhet.gov.bd/pages/notices",
+    "base_url": "http://companiganj.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Fenchuganj Upazila",
+    "name": "ফেঞ্চুগঞ্জ উপজেলা",
+    "url": "http://fenchuganj.sylhet.gov.bd/pages/notices",
+    "base_url": "http://fenchuganj.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Golapganj Upazila",
+    "name": "গোলাপগঞ্জ উপজেলা",
+    "url": "http://golapganj.sylhet.gov.bd/pages/notices",
+    "base_url": "http://golapganj.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Goainghat Upazila",
+    "name": "গোয়াইনঘাট উপজেলা",
+    "url": "http://gowainghat.sylhet.gov.bd/pages/notices",
+    "base_url": "http://gowainghat.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jaintapur Upazila",
+    "name": "জৈন্তাপুর উপজেলা",
+    "url": "http://jaintiapur.sylhet.gov.bd/pages/notices",
+    "base_url": "http://jaintiapur.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kanaighat Upazila",
+    "name": "কানাইঘাট উপজেলা",
+    "url": "http://kanaighat.sylhet.gov.bd/pages/notices",
+    "base_url": "http://kanaighat.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sylhet Sadar Upazila",
+    "name": "সিলেট সদর উপজেলা",
+    "url": "http://sylhetsadar.sylhet.gov.bd/pages/notices",
+    "base_url": "http://sylhetsadar.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Zakiganj Upazila",
+    "name": "জকিগঞ্জ উপজেলা",
+    "url": "http://zakiganj.sylhet.gov.bd/pages/notices",
+    "base_url": "http://zakiganj.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "South Surma Upazila",
+    "name": "দক্ষিণ সুরমা উপজেলা",
+    "url": "http://dakshinsurma.sylhet.gov.bd/pages/notices",
+    "base_url": "http://dakshinsurma.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Osmani Upazila",
+    "name": "ওসমানী উপজেলা",
+    "url": "http://osmaninagar.sylhet.gov.bd/pages/notices",
+    "base_url": "http://osmaninagar.sylhet.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Moulvibazar Upazila",
+    "name": "মৌলভীবাজার উপজেলা",
+    "url": "http://www.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://www.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barlekha Upazila",
+    "name": "বড়লেখা উপজেলা",
+    "url": "http://barlekha.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://barlekha.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kamalganj Upazila",
+    "name": "কমলগঞ্জ উপজেলা",
+    "url": "http://kamolganj.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://kamolganj.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kulaura Upazila",
+    "name": "কুলাউড়া উপজেলা",
+    "url": "http://kulaura.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://kulaura.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Moulvibazar Sadar Upazila",
+    "name": "মৌলভীবাজার সদর উপজেলা",
+    "url": "http://moulvibazarsadar.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://moulvibazarsadar.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajnagar Upazila",
+    "name": "রাজনগর উপজেলা",
+    "url": "http://rajnagar.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://rajnagar.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Srimangal Upazila",
+    "name": "শ্রীমঙ্গল উপজেলা",
+    "url": "http://sreemangal.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://sreemangal.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Juri Upazila",
+    "name": "জুড়ী উপজেলা",
+    "url": "http://juri.moulvibazar.gov.bd/pages/notices",
+    "base_url": "http://juri.moulvibazar.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Habiganj Upazila",
+    "name": "হবিগঞ্জ উপজেলা",
+    "url": "http://www.habiganj.gov.bd/pages/notices",
+    "base_url": "http://www.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nabiganj Upazila",
+    "name": "নবীগঞ্জ উপজেলা",
+    "url": "http://nabiganj.habiganj.gov.bd/pages/notices",
+    "base_url": "http://nabiganj.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bahubal Upazila",
+    "name": "বাহুবল উপজেলা",
+    "url": "http://bahubal.habiganj.gov.bd/pages/notices",
+    "base_url": "http://bahubal.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ajmiriganj Upazila",
+    "name": "আজমিরীগঞ্জ উপজেলা",
+    "url": "http://ajmiriganj.habiganj.gov.bd/pages/notices",
+    "base_url": "http://ajmiriganj.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baniachang Upazila",
+    "name": "বানিয়াচং উপজেলা",
+    "url": "http://baniachong.habiganj.gov.bd/pages/notices",
+    "base_url": "http://baniachong.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lakhai Upazila",
+    "name": "লাখাই উপজেলা",
+    "url": "http://lakhai.habiganj.gov.bd/pages/notices",
+    "base_url": "http://lakhai.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chunarughat Upazila",
+    "name": "চুনারুঘাট উপজেলা",
+    "url": "http://chunarughat.habiganj.gov.bd/pages/notices",
+    "base_url": "http://chunarughat.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Habiganj Sadar Upazila",
+    "name": "হবিগঞ্জ সদর উপজেলা",
+    "url": "http://habiganjsadar.habiganj.gov.bd/pages/notices",
+    "base_url": "http://habiganjsadar.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madhabpur Upazila Upazila",
+    "name": "মাধবপুর উপজেলা উপজেলা",
+    "url": "http://madhabpur.habiganj.gov.bd/pages/notices",
+    "base_url": "http://madhabpur.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shayestaganj Upazila",
+    "name": "শায়েস্তাগঞ্জ উপজেলা",
+    "url": "http://shayestaganj.habiganj.gov.bd/pages/notices",
+    "base_url": "http://shayestaganj.habiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sunamganj Upazila",
+    "name": "সুনামগঞ্জ উপজেলা",
+    "url": "http://www.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://www.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sunamganj Sadar Upazila",
+    "name": "সুনামগঞ্জ সদর উপজেলা",
+    "url": "http://sadar.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://sadar.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "South Sunamganj Upazila",
+    "name": "দক্ষিণ সুনামগঞ্জ উপজেলা",
+    "url": "http://southsunamganj.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://southsunamganj.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bishwambharpur Upazila",
+    "name": "বিশ্বম্ভরপুর উপজেলা",
+    "url": "http://bishwambarpur.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://bishwambarpur.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chhatak Upazila",
+    "name": "ছাতক উপজেলা",
+    "url": "http://chhatak.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://chhatak.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jagannathpur Upazila",
+    "name": "জগন্নাথপুর উপজেলা",
+    "url": "http://jagannathpur.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://jagannathpur.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Doarabazar Upazila",
+    "name": "দোয়ারাবাজার উপজেলা",
+    "url": "http://dowarabazar.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://dowarabazar.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tahirpur Upazila",
+    "name": "তাহিরপুর উপজেলা",
+    "url": "http://tahirpur.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://tahirpur.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dharmapasha Upazila",
+    "name": "ধর্মপাশা উপজেলা",
+    "url": "http://dharmapasha.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://dharmapasha.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jamalganj Upazila",
+    "name": "জামালগঞ্জ উপজেলা",
+    "url": "http://jamalganj.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://jamalganj.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shalla Upazila",
+    "name": "শাল্লা উপজেলা",
+    "url": "http://shalla.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://shalla.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dirai Upazila",
+    "name": "দিরাই উপজেলা",
+    "url": "http://derai.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://derai.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madhyanagar Upazila",
+    "name": "মধ্যনগর উপজেলা",
+    "url": "http://madhyanagar.sunamganj.gov.bd/pages/notices",
+    "base_url": "http://madhyanagar.sunamganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Narsingdi Upazila",
+    "name": "নরসিংদী উপজেলা",
+    "url": "http://www.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://www.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Belabo Upazila",
+    "name": "বেলাবো উপজেলা",
+    "url": "http://belabo.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://belabo.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manohardi Upazila",
+    "name": "মনোহরদী উপজেলা",
+    "url": "http://monohardi.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://monohardi.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Narsingdi Upazila",
+    "name": "নরসিংদী উপজেলা",
+    "url": "http://narsingdisadar.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://narsingdisadar.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Palash Upazila",
+    "name": "পলাশ উপজেলা",
+    "url": "http://palash.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://palash.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Raipura Upazila",
+    "name": "রায়পুরা উপজেলা",
+    "url": "http://raipura.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://raipura.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shibpur Upazila",
+    "name": "শিবপুর উপজেলা",
+    "url": "http://shibpur.narsingdi.gov.bd/pages/notices",
+    "base_url": "http://shibpur.narsingdi.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gazipur Upazila",
+    "name": "গাজীপুর উপজেলা",
+    "url": "http://www.gazipur.gov.bd/pages/notices",
+    "base_url": "http://www.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaliganj Upazila",
+    "name": "কালীগঞ্জ উপজেলা",
+    "url": "http://kaliganj.gazipur.gov.bd/pages/notices",
+    "base_url": "http://kaliganj.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaliakoir Upazila",
+    "name": "কালিয়াকৈর উপজেলা",
+    "url": "http://kaliakair.gazipur.gov.bd/pages/notices",
+    "base_url": "http://kaliakair.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kapasia Upazila",
+    "name": "কাপাসিয়া উপজেলা",
+    "url": "http://kapasia.gazipur.gov.bd/pages/notices",
+    "base_url": "http://kapasia.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gazipur Sadar Upazila",
+    "name": "গাজীপুর সদর উপজেলা",
+    "url": "http://sadar.gazipur.gov.bd/pages/notices",
+    "base_url": "http://sadar.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shripur Upazila",
+    "name": "শ্রীপুর উপজেলা",
+    "url": "http://sreepur.gazipur.gov.bd/pages/notices",
+    "base_url": "http://sreepur.gazipur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shariatpur Upazila",
+    "name": "শরীয়তপুর উপজেলা",
+    "url": "http://www.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://www.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shariatpur Sadar Upazila",
+    "name": "শরিয়তপুর সদর উপজেলা",
+    "url": "http://sadar.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://sadar.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Naria Upazila",
+    "name": "নড়িয়া উপজেলা",
+    "url": "http://naria.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://naria.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jajira Upazila",
+    "name": "জাজিরা উপজেলা",
+    "url": "http://zajira.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://zajira.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gosairhat Upazila",
+    "name": "গোসাইরহাট উপজেলা",
+    "url": "http://gosairhat.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://gosairhat.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhedarganj Upazila",
+    "name": "ভেদরগঞ্জ উপজেলা",
+    "url": "http://bhedarganj.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://bhedarganj.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Damudya Upazila",
+    "name": "ডামুড্যা উপজেলা",
+    "url": "http://damudya.shariatpur.gov.bd/pages/notices",
+    "base_url": "http://damudya.shariatpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Narayanganj Upazila",
+    "name": "নারায়ণগঞ্জ উপজেলা",
+    "url": "http://www.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://www.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Araihazar Upazila Upazila",
+    "name": "আড়াইহাজার উপজেলা উপজেলা",
+    "url": "http://araihazar.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://araihazar.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bandar Upazila",
+    "name": "বন্দর উপজেলা উপজেলা",
+    "url": "http://bandar.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://bandar.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Narayanganj Sadar Upazila",
+    "name": "নারায়নগঞ্জ সদর উপজেলা",
+    "url": "http://narayanganjsadar.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://narayanganjsadar.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rupganj Upazila",
+    "name": "রূপগঞ্জ উপজেলা উপজেলা",
+    "url": "http://rupganj.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://rupganj.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sonargaon Upazila Upazila",
+    "name": "সোনারগাঁ উপজেলা উপজেলা",
+    "url": "http://sonargaon.narayanganj.gov.bd/pages/notices",
+    "base_url": "http://sonargaon.narayanganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tangail Upazila",
+    "name": "টাঙ্গাইল উপজেলা",
+    "url": "http://www.tangail.gov.bd/pages/notices",
+    "base_url": "http://www.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Basail Upazila",
+    "name": "বাসাইল উপজেলা",
+    "url": "http://basail.tangail.gov.bd/pages/notices",
+    "base_url": "http://basail.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhuapur Upazila",
+    "name": "ভুয়াপুর উপজেলা",
+    "url": "http://bhuapur.tangail.gov.bd/pages/notices",
+    "base_url": "http://bhuapur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Delduar Upazila",
+    "name": "দেলদুয়ার উপজেলা",
+    "url": "http://delduar.tangail.gov.bd/pages/notices",
+    "base_url": "http://delduar.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ghatail Upazila",
+    "name": "ঘাটাইল উপজেলা",
+    "url": "http://ghatail.tangail.gov.bd/pages/notices",
+    "base_url": "http://ghatail.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gopalpur Upazila",
+    "name": "গোপালপুর উপজেলা",
+    "url": "http://gopalpur.tangail.gov.bd/pages/notices",
+    "base_url": "http://gopalpur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madhupur Upazila",
+    "name": "মধুপুর উপজেলা",
+    "url": "http://madhupur.tangail.gov.bd/pages/notices",
+    "base_url": "http://madhupur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mirzapur Upazila",
+    "name": "মির্জাপুর উপজেলা",
+    "url": "http://mirzapur.tangail.gov.bd/pages/notices",
+    "base_url": "http://mirzapur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nagarpur Upazila",
+    "name": "নাগরপুর উপজেলা",
+    "url": "http://nagarpur.tangail.gov.bd/pages/notices",
+    "base_url": "http://nagarpur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sakhipur Upazila",
+    "name": "সখিপুর উপজেলা",
+    "url": "http://sakhipur.tangail.gov.bd/pages/notices",
+    "base_url": "http://sakhipur.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tangail Sadar Upazila",
+    "name": "টাঙ্গাইল সদর উপজেলা",
+    "url": "http://tangailsadar.tangail.gov.bd/pages/notices",
+    "base_url": "http://tangailsadar.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalihati Upazila",
+    "name": "কালিহাতী উপজেলা",
+    "url": "http://kalihati.tangail.gov.bd/pages/notices",
+    "base_url": "http://kalihati.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhanbari Upazila",
+    "name": "ধনবাড়ী উপজেলা",
+    "url": "http://dhanbari.tangail.gov.bd/pages/notices",
+    "base_url": "http://dhanbari.tangail.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kishoreganj Upazila",
+    "name": "কিশোরগঞ্জ উপজেলা",
+    "url": "http://www.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://www.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Itna Upazila",
+    "name": "ইটনা উপজেলা",
+    "url": "http://itna.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://itna.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Katiadi Upazila",
+    "name": "কটিয়াদী উপজেলা",
+    "url": "http://katiadi.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://katiadi.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhairab Upazila",
+    "name": "ভৈরব উপজেলা",
+    "url": "http://bhairab.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://bhairab.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tarail Upazila",
+    "name": "তাড়াইল উপজেলা",
+    "url": "http://tarail.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://tarail.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hoseinpur Upazila",
+    "name": "হোসেনপুর উপজেলা",
+    "url": "http://hossainpur.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://hossainpur.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pakundia Upazila",
+    "name": "পাকুন্দিয়া উপজেলা",
+    "url": "http://pakundia.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://pakundia.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kuliarchar Upazila",
+    "name": "কুলিয়ারচর উপজেলা",
+    "url": "http://kuliarchar.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://kuliarchar.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kishoreganj Sadar Upazila",
+    "name": "কিশোরগঞ্জ সদর উপজেলা",
+    "url": "http://kishoreganjsadar.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://kishoreganjsadar.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Karimganj Upazila",
+    "name": "করিমগঞ্জ উপজেলা",
+    "url": "http://karimgonj.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://karimgonj.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bajitpur Upazila",
+    "name": "বাজিতপুর উপজেলা",
+    "url": "http://bajitpur.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://bajitpur.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ashtagram Upazila",
+    "name": "অষ্টগ্রাম উপজেলা",
+    "url": "http://austagram.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://austagram.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mithamoin Upazila",
+    "name": "মিঠামইন উপজেলা",
+    "url": "http://mithamoin.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://mithamoin.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nikl Upazila",
+    "name": "নিকলী উপজেলা",
+    "url": "http://nikli.kishoreganj.gov.bd/pages/notices",
+    "base_url": "http://nikli.kishoreganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manikganj Upazila",
+    "name": "মানিকগঞ্জ উপজেলা",
+    "url": "http://www.manikganj.gov.bd/pages/notices",
+    "base_url": "http://www.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Harirampur Upazila",
+    "name": "হরিরামপুর উপজেলা",
+    "url": "http://harirampur.manikganj.gov.bd/pages/notices",
+    "base_url": "http://harirampur.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Saturia Upazila",
+    "name": "সাটুরিয়া উপজেলা",
+    "url": "http://saturia.manikganj.gov.bd/pages/notices",
+    "base_url": "http://saturia.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Manikganj Sadar Upazila",
+    "name": "মানিকগঞ্জ সদর উপজেলা",
+    "url": "http://sadar.manikganj.gov.bd/pages/notices",
+    "base_url": "http://sadar.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ghior Upazila",
+    "name": "ঘিওর উপজেলা",
+    "url": "http://gior.manikganj.gov.bd/pages/notices",
+    "base_url": "http://gior.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shibalay Upazila",
+    "name": "শিবালয় উপজেলা",
+    "url": "http://shibaloy.manikganj.gov.bd/pages/notices",
+    "base_url": "http://shibaloy.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Daulatpur Upazila",
+    "name": "দৌলতপুর উপজেলা",
+    "url": "http://doulatpur.manikganj.gov.bd/pages/notices",
+    "base_url": "http://doulatpur.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Singair Upazila",
+    "name": "সিংগাইর উপজেলা",
+    "url": "http://singiar.manikganj.gov.bd/pages/notices",
+    "base_url": "http://singiar.manikganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhaka Upazila",
+    "name": "ঢাকা উপজেলা",
+    "url": "http://www.dhaka.gov.bd/pages/notices",
+    "base_url": "http://www.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Savar Upazila",
+    "name": "সাভার উপজেলা",
+    "url": "http://savar.dhaka.gov.bd/pages/notices",
+    "base_url": "http://savar.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhamrai Upazila",
+    "name": "ধামরাই উপজেলা",
+    "url": "http://dhamrai.dhaka.gov.bd/pages/notices",
+    "base_url": "http://dhamrai.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Keraniganj Upazila",
+    "name": "কেরাণীগঞ্জ উপজেলা",
+    "url": "http://keraniganj.dhaka.gov.bd/pages/notices",
+    "base_url": "http://keraniganj.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nawabganj Upazila",
+    "name": "নবাবগঞ্জ উপজেলা",
+    "url": "http://nawabganj.dhaka.gov.bd/pages/notices",
+    "base_url": "http://nawabganj.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dohar Upazila",
+    "name": "দোহার উপজেলা",
+    "url": "http://dohar.dhaka.gov.bd/pages/notices",
+    "base_url": "http://dohar.dhaka.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Munshiganj Upazila",
+    "name": "মুন্সিগঞ্জ উপজেলা",
+    "url": "http://www.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://www.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Munshiganj Sadar Upazila",
+    "name": "মুন্সিগঞ্জ সদর উপজেলা",
+    "url": "http://sadar.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://sadar.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Srinagar Upazila",
+    "name": "শ্রীনগর উপজেলা",
+    "url": "http://sreenagar.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://sreenagar.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sirajdikhan Upazila",
+    "name": "সিরাজদিখান উপজেলা",
+    "url": "http://sirajdikhan.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://sirajdikhan.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Louhjang Upazila",
+    "name": "লৌহজং উপজেলা",
+    "url": "http://louhajanj.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://louhajanj.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gazaria Upazila",
+    "name": "গজারিয়া উপজেলা",
+    "url": "http://gajaria.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://gajaria.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tongibari Upazila",
+    "name": "টংগীবাড়ি উপজেলা",
+    "url": "http://tongibari.munshiganj.gov.bd/pages/notices",
+    "base_url": "http://tongibari.munshiganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajbari Upazila",
+    "name": "রাজবাড়ী উপজেলা",
+    "url": "http://www.rajbari.gov.bd/pages/notices",
+    "base_url": "http://www.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajbari Sadar Upazila",
+    "name": "রাজবাড়ী সদর উপজেলা",
+    "url": "http://sadar.rajbari.gov.bd/pages/notices",
+    "base_url": "http://sadar.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Goaland Upazila",
+    "name": "গোয়ালন্দ উপজেলা",
+    "url": "http://goalanda.rajbari.gov.bd/pages/notices",
+    "base_url": "http://goalanda.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pangsha Upazila",
+    "name": "পাংশা উপজেলা",
+    "url": "http://pangsa.rajbari.gov.bd/pages/notices",
+    "base_url": "http://pangsa.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baliakandi Upazila",
+    "name": "বালিয়াকান্দি উপজেলা",
+    "url": "http://baliakandi.rajbari.gov.bd/pages/notices",
+    "base_url": "http://baliakandi.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalukhali Upazila",
+    "name": "কালুখালী উপজেলা",
+    "url": "http://kalukhali.rajbari.gov.bd/pages/notices",
+    "base_url": "http://kalukhali.rajbari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madaripur Upazila",
+    "name": "মাদারীপুর উপজেলা",
+    "url": "http://www.madaripur.gov.bd/pages/notices",
+    "base_url": "http://www.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madaripur Sadar Upazila",
+    "name": "মাদারীপুর সদর উপজেলা",
+    "url": "http://sadar.madaripur.gov.bd/pages/notices",
+    "base_url": "http://sadar.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shibchar Upazila",
+    "name": "শিবচর উপজেলা",
+    "url": "http://shibchar.madaripur.gov.bd/pages/notices",
+    "base_url": "http://shibchar.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalkini Upazila",
+    "name": "কালকিনি উপজেলা",
+    "url": "http://kalkini.madaripur.gov.bd/pages/notices",
+    "base_url": "http://kalkini.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajoir Upazila",
+    "name": "রাজৈর উপজেলা",
+    "url": "http://rajoir.madaripur.gov.bd/pages/notices",
+    "base_url": "http://rajoir.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dasar Upazila",
+    "name": "ডাসার উপজেলা",
+    "url": "http://dasar.madaripur.gov.bd/pages/notices",
+    "base_url": "http://dasar.madaripur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gopalganj Upazila",
+    "name": "গোপালগঞ্জ উপজেলা",
+    "url": "http://www.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://www.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gopalganj Sadar Upazila",
+    "name": "গোপালগঞ্জ সদর উপজেলা",
+    "url": "http://sadar.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://sadar.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kashiani Upazila",
+    "name": "কাশিয়ানী উপজেলা",
+    "url": "http://kashiani.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://kashiani.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tungipara Upazila",
+    "name": "টুংগীপাড়া উপজেলা",
+    "url": "http://tungipara.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://tungipara.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kotalipara Upazila",
+    "name": "কোটালীপাড়া উপজেলা",
+    "url": "http://kotalipara.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://kotalipara.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Muksudpur Upazila",
+    "name": "মুকসুদপুর উপজেলা",
+    "url": "http://muksudpur.gopalganj.gov.bd/pages/notices",
+    "base_url": "http://muksudpur.gopalganj.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Faridpur Upazila",
+    "name": "ফরিদপুর উপজেলা",
+    "url": "http://www.faridpur.gov.bd/pages/notices",
+    "base_url": "http://www.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Faridpur Sadar Upazila",
+    "name": "ফরিদপুর সদর উপজেলা",
+    "url": "http://sadar.faridpur.gov.bd/pages/notices",
+    "base_url": "http://sadar.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Alfadanga Upazila",
+    "name": "আলফাডাঙ্গা উপজেলা",
+    "url": "http://alfadanga.faridpur.gov.bd/pages/notices",
+    "base_url": "http://alfadanga.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Boalmari Upazila",
+    "name": "বোয়ালমারী উপজেলা",
+    "url": "http://boalmari.faridpur.gov.bd/pages/notices",
+    "base_url": "http://boalmari.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sadarpur Upazila",
+    "name": "সদরপুর উপজেলা",
+    "url": "http://sadarpur.faridpur.gov.bd/pages/notices",
+    "base_url": "http://sadarpur.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nagarkanda Upazila",
+    "name": "নগরকান্দা উপজেলা",
+    "url": "http://nagarkanda.faridpur.gov.bd/pages/notices",
+    "base_url": "http://nagarkanda.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhanga Upazila",
+    "name": "ভাঙ্গা উপজেলা",
+    "url": "http://bhanga.faridpur.gov.bd/pages/notices",
+    "base_url": "http://bhanga.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Charbhadrasan Upazila",
+    "name": "চরভদ্রাসন উপজেলা",
+    "url": "http://charbhadrasan.faridpur.gov.bd/pages/notices",
+    "base_url": "http://charbhadrasan.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madhukhali Upazila",
+    "name": "মধুখালী উপজেলা",
+    "url": "http://madhukhali.faridpur.gov.bd/pages/notices",
+    "base_url": "http://madhukhali.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Saltha Upazila",
+    "name": "সালথা উপজেলা",
+    "url": "http://saltha.faridpur.gov.bd/pages/notices",
+    "base_url": "http://saltha.faridpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Panchagarh Upazila",
+    "name": "পঞ্চগড় উপজেলা",
+    "url": "http://www.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://www.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Panchagarh Upazila",
+    "name": "পঞ্চগড় উপজেলা",
+    "url": "http://panchagarhsadar.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://panchagarhsadar.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Debiganj Upazila",
+    "name": "দেবীগঞ্জ উপজেলা",
+    "url": "http://debiganj.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://debiganj.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Boda Upazila",
+    "name": "বোদা উপজেলা",
+    "url": "http://boda.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://boda.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Atoari Upazila",
+    "name": "আটোয়ারী উপজেলা",
+    "url": "http://atwari.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://atwari.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tetulia Upazila",
+    "name": "তেতুলিয়া উপজেলা",
+    "url": "http://tetulia.panchagarh.gov.bd/pages/notices",
+    "base_url": "http://tetulia.panchagarh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dinajpur Upazila",
+    "name": "দিনাজপুর উপজেলা",
+    "url": "http://www.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://www.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nawabganj Upazila",
+    "name": "নবাবগঞ্জ উপজেলা",
+    "url": "http://nawabganj.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://nawabganj.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Birganj Upazila Upazila",
+    "name": "বীরগঞ্জ উপজেলা উপজেলা",
+    "url": "http://birganj.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://birganj.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ghoraghat Upazila",
+    "name": "ঘোড়াঘাট উপজেলা",
+    "url": "http://ghoraghat.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://ghoraghat.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Birampur Upazila",
+    "name": "বিরামপুর উপজেলা",
+    "url": "http://birampur.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://birampur.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Parbatipur Upazila Upazila",
+    "name": "পার্বতীপুর উপজেলা উপজেলা",
+    "url": "http://parbatipur.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://parbatipur.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bochaganj Upazila Upazila",
+    "name": "বোচাগঞ্জ উপজেলা উপজেলা",
+    "url": "http://bochaganj.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://bochaganj.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaharol Upazila",
+    "name": "কাহারোল উপজেলা উপজেলা",
+    "url": "http://kaharol.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://kaharol.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Phulbari Upazila Upazila",
+    "name": "ফুলবাড়ী উপজেলা উপজেলা",
+    "url": "http://fulbari.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://fulbari.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dinajpur Sadar Upazila",
+    "name": "দিনাজপুর সদর উপজেলা",
+    "url": "http://dinajpursadar.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://dinajpursadar.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hakimpur Upazila Upazila",
+    "name": "হাকিমপুর উপজেলা উপজেলা",
+    "url": "http://hakimpur.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://hakimpur.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khansama Upazila",
+    "name": "খানসামা উপজেলা",
+    "url": "http://khansama.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://khansama.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Biral Upazila Upazila",
+    "name": "বিরল উপজেলা উপজেলা",
+    "url": "http://birol.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://birol.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chirirbandar Upazila Upazila",
+    "name": "চিরিরবন্দর উপজেলা উপজেলা",
+    "url": "http://chirirbandar.dinajpur.gov.bd/pages/notices",
+    "base_url": "http://chirirbandar.dinajpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lalmonirhat Upazila",
+    "name": "লালমনিরহাট উপজেলা",
+    "url": "http://www.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://www.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Lalmonirhat Sadar Upazila",
+    "name": "লালমনিরহাট সদর উপজেলা",
+    "url": "http://sadar.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://sadar.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaliganj Upazila",
+    "name": "কালীগঞ্জ উপজেলা",
+    "url": "http://kaliganj.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://kaliganj.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Hatibandha Upazila",
+    "name": "হাতীবান্ধা উপজেলা",
+    "url": "http://hatibandha.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://hatibandha.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Patgram Upazila",
+    "name": "পাটগ্রাম উপজেলা",
+    "url": "http://patgram.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://patgram.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Aditmari Upazila",
+    "name": "আদিতমারী উপজেলা উপজেলা",
+    "url": "http://aditmari.lalmonirhat.gov.bd/pages/notices",
+    "base_url": "http://aditmari.lalmonirhat.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nilphamari Upazila",
+    "name": "নীলফামারী উপজেলা",
+    "url": "http://www.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://www.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Saidpur Upazila",
+    "name": "সৈয়দপুর উপজেলা উপজেলা",
+    "url": "http://syedpur.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://syedpur.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Domar Upazila Upazila",
+    "name": "ডোমার উপজেলা উপজেলা",
+    "url": "http://domar.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://domar.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dimla Upazila",
+    "name": "ডিমলা উপজেলা",
+    "url": "http://dimla.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://dimla.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jaldhaka Upazila",
+    "name": "জলঢাকা উপজেলা",
+    "url": "http://jaldhaka.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://jaldhaka.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kishoreganj Upazila",
+    "name": "কিশোরগঞ্জ উপজেলা",
+    "url": "http://kishorganj.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://kishorganj.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nilphamari Sadar Upazila",
+    "name": "নীলফামারী সদর উপজেলা",
+    "url": "http://nilphamarisadar.nilphamari.gov.bd/pages/notices",
+    "base_url": "http://nilphamarisadar.nilphamari.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gaibandha Upazila",
+    "name": "গাইবান্ধা উপজেলা",
+    "url": "http://www.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://www.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sadullapur Upazila",
+    "name": "সাদুল্লাপুর উপজেলা",
+    "url": "http://sadullapur.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://sadullapur.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gaibandha Sadar Upazila",
+    "name": "গাইবান্ধা সদর উপজেলা",
+    "url": "http://gaibandhasadar.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://gaibandhasadar.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Palashbari Upazila",
+    "name": "পলাশবাড়ী উপজেলা",
+    "url": "http://palashbari.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://palashbari.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Saghata Upazila",
+    "name": "সাঘাটা উপজেলা উপজেলা",
+    "url": "http://saghata.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://saghata.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gobindaganj Upazila",
+    "name": "গোবিন্দগঞ্জ উপজেলা উপজেলা",
+    "url": "http://gobindaganj.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://gobindaganj.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sundarganj Upazila",
+    "name": "সুন্দরগঞ্জ উপজেলা",
+    "url": "http://sundarganj.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://sundarganj.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pholchhari Upazila",
+    "name": "ফুলছড়ি উপজেলা",
+    "url": "http://phulchari.gaibandha.gov.bd/pages/notices",
+    "base_url": "http://phulchari.gaibandha.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Thakurgaon Upazila",
+    "name": "ঠাকুরগাঁও উপজেলা",
+    "url": "http://www.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://www.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Thakurgaon Sadar Upazila",
+    "name": "ঠাকুরগাঁও সদর উপজেলা",
+    "url": "http://thakurgaonsadar.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://thakurgaonsadar.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pirganj Upazila",
+    "name": "পীরগঞ্জ উপজেলা উপজেলা",
+    "url": "http://pirganj.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://pirganj.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ranishankail Upazila",
+    "name": "রাণীশংকৈল উপজেলা উপজেলা",
+    "url": "http://ranisankail.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://ranisankail.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Haripur Upazila",
+    "name": "হরিপুর উপজেলা উপজেলা",
+    "url": "http://haripur.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://haripur.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Baliadangi Upazila",
+    "name": "বালিয়াডাঙ্গী উপজেলা উপজেলা",
+    "url": "http://baliadangi.thakurgaon.gov.bd/pages/notices",
+    "base_url": "http://baliadangi.thakurgaon.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rangpur Upazila",
+    "name": "রংপুর উপজেলা",
+    "url": "http://www.rangpur.gov.bd/pages/notices",
+    "base_url": "http://www.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rangpur Sadar Upazila",
+    "name": "রংপুর সদর উপজেলা",
+    "url": "http://rangpursadar.rangpur.gov.bd/pages/notices",
+    "base_url": "http://rangpursadar.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gangachara Upazila",
+    "name": "গংগাচড়া উপজেলা",
+    "url": "http://gangachara.rangpur.gov.bd/pages/notices",
+    "base_url": "http://gangachara.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Taraganj Upazila",
+    "name": "তারাগঞ্জ উপজেলা উপজেলা",
+    "url": "http://taragonj.rangpur.gov.bd/pages/notices",
+    "base_url": "http://taragonj.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Badarganj Upazila",
+    "name": "বদরগঞ্জ উপজেলা উপজেলা",
+    "url": "http://badargonj.rangpur.gov.bd/pages/notices",
+    "base_url": "http://badargonj.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mithapukur Upazila",
+    "name": "মিঠাপুকুর উপজেলা উপজেলা",
+    "url": "http://mithapukur.rangpur.gov.bd/pages/notices",
+    "base_url": "http://mithapukur.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pirganj Upazila",
+    "name": "পীরগঞ্জ উপজেলা উপজেলা",
+    "url": "http://pirgonj.rangpur.gov.bd/pages/notices",
+    "base_url": "http://pirgonj.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kaunia Upazila",
+    "name": "কাউনিয়া উপজেলা উপজেলা",
+    "url": "http://kaunia.rangpur.gov.bd/pages/notices",
+    "base_url": "http://kaunia.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Pirgachha Upazila",
+    "name": "পীরগাছা উপজেলা উপজেলা",
+    "url": "http://pirgacha.rangpur.gov.bd/pages/notices",
+    "base_url": "http://pirgacha.rangpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kurigram Upazila",
+    "name": "কুড়িগ্রাম উপজেলা",
+    "url": "http://www.kurigram.gov.bd/pages/notices",
+    "base_url": "http://www.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kurigram Sadar Upazila",
+    "name": "কুড়িগ্রাম সদর উপজেলা",
+    "url": "http://kurigramsadar.kurigram.gov.bd/pages/notices",
+    "base_url": "http://kurigramsadar.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nageshwari Upazila",
+    "name": "নাগেশ্বরী উপজেলা",
+    "url": "http://nageshwari.kurigram.gov.bd/pages/notices",
+    "base_url": "http://nageshwari.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhurungamari Upazila",
+    "name": "ভুরুঙ্গামারী উপজেলা",
+    "url": "http://bhurungamari.kurigram.gov.bd/pages/notices",
+    "base_url": "http://bhurungamari.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Phulbari Upazila",
+    "name": "ফুলবাড়ী উপজেলা",
+    "url": "http://phulbari.kurigram.gov.bd/pages/notices",
+    "base_url": "http://phulbari.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Rajarhat Upazila",
+    "name": "রাজারহাট উপজেলা",
+    "url": "http://rajarhat.kurigram.gov.bd/pages/notices",
+    "base_url": "http://rajarhat.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ulipur Upazila",
+    "name": "উলিপুর উপজেলা",
+    "url": "http://ulipur.kurigram.gov.bd/pages/notices",
+    "base_url": "http://ulipur.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Chilmari Upazila",
+    "name": "চিলমারী উপজেলা",
+    "url": "http://chilmari.kurigram.gov.bd/pages/notices",
+    "base_url": "http://chilmari.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Roumari Upazila",
+    "name": "রৌমারী উপজেলা",
+    "url": "http://rowmari.kurigram.gov.bd/pages/notices",
+    "base_url": "http://rowmari.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Char Rajibpur Upazila",
+    "name": "চর রাজিবপুর উপজেলা",
+    "url": "http://charrajibpur.kurigram.gov.bd/pages/notices",
+    "base_url": "http://charrajibpur.kurigram.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sherpur Upazila",
+    "name": "শেরপুর উপজেলা",
+    "url": "http://www.sherpur.gov.bd/pages/notices",
+    "base_url": "http://www.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Sherpur Sadar Upazila",
+    "name": "শেরপুর সদর উপজেলা",
+    "url": "http://sherpursadar.sherpur.gov.bd/pages/notices",
+    "base_url": "http://sherpursadar.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nalitabari Upazila",
+    "name": "নালিতাবাড়ী উপজেলা উপজেলা",
+    "url": "http://nalitabari.sherpur.gov.bd/pages/notices",
+    "base_url": "http://nalitabari.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Shribardi Upazila",
+    "name": "শ্রীবরদী উপজেলা উপজেলা",
+    "url": "http://sreebordi.sherpur.gov.bd/pages/notices",
+    "base_url": "http://sreebordi.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nakla Upazila",
+    "name": "নকলা উপজেলা উপজেলা",
+    "url": "http://nokla.sherpur.gov.bd/pages/notices",
+    "base_url": "http://nokla.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jhenaigati Upazila",
+    "name": "ঝিনাইগাতী উপজেলা উপজেলা",
+    "url": "http://jhenaigati.sherpur.gov.bd/pages/notices",
+    "base_url": "http://jhenaigati.sherpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mymensingh Upazila",
+    "name": "ময়মনসিংহ উপজেলা",
+    "url": "http://www.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://www.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Phulbaria Upazila",
+    "name": "ফুলবাড়ীয়া উপজেলা",
+    "url": "http://fulbaria.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://fulbaria.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Trishal Upazila",
+    "name": "ত্রিশাল উপজেলা",
+    "url": "http://trishal.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://trishal.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Bhaluka Upazila",
+    "name": "ভালুকা উপজেলা",
+    "url": "http://bhaluka.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://bhaluka.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Muktagachha Upazila",
+    "name": "মুক্তাগাছা উপজেলা",
+    "url": "http://muktagacha.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://muktagacha.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mymensingh Sadar Upazila",
+    "name": "ময়মনসিংহ সদর উপজেলা",
+    "url": "http://mymensinghsadar.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://mymensinghsadar.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dhobaura Upazila",
+    "name": "ধোবাউড়া উপজেলা",
+    "url": "http://dhobaura.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://dhobaura.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Phulpur Upazila",
+    "name": "ফুলপুর উপজেলা",
+    "url": "http://phulpur.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://phulpur.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Haluaghat Upazila",
+    "name": "হালুয়াঘাট উপজেলা",
+    "url": "http://haluaghat.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://haluaghat.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gauripur Upazila",
+    "name": "গৌরীপুর উপজেলা",
+    "url": "http://gouripur.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://gouripur.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Gafargaon Upazila",
+    "name": "গফরগাঁও উপজেলা",
+    "url": "http://gafargaon.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://gafargaon.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Ishwarganj Upazila",
+    "name": "ঈশ্বরগঞ্জ উপজেলা",
+    "url": "http://iswarganj.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://iswarganj.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Nandail Upazila",
+    "name": "নান্দাইল উপজেলা",
+    "url": "http://nandail.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://nandail.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Tarakanda Upazila",
+    "name": "তারাকান্দা উপজেলা",
+    "url": "http://tarakanda.mymensingh.gov.bd/pages/notices",
+    "base_url": "http://tarakanda.mymensingh.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jamalpur Upazila",
+    "name": "জামালপুর উপজেলা",
+    "url": "http://www.jamalpur.gov.bd/pages/notices",
+    "base_url": "http://www.jamalpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Jamalpur Sadar Upazila",
+    "name": "জামালপুর সদর উপজেলা",
+    "url": "http://jamalpursadar.jamalpur.gov.bd/pages/notices",
+    "base_url": "http://jamalpursadar.jamalpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Melandah Upazila",
+    "name": "মেলান্দহ উপজেলা",
+    "url": "http://melandah.jamalpur.gov.bd/pages/notices",
+    "base_url": "http://melandah.jamalpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Islampur Upazila",
+    "name": "ইসলামপুর উপজেলা",
+    "url": "http://islampur.jamalpur.gov.bd/pages/notices",
+    "base_url": "http://islampur.jamalpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Dewanganj Upazila",
+    "name": "দেওয়ানগঞ্জ উপজেলা",
+    "url": "http://dewangonj.jamalpur.gov.bd/pages/notices",
+    "base_url": "http://dewangonj.jamalpur.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Netrokona Upazila",
+    "name": "নেত্রকোণা উপজেলা",
+    "url": "http://www.netrokona.gov.bd/pages/notices",
+    "base_url": "http://www.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Barhatta Upazila",
+    "name": "বারহাট্টা উপজেলা",
+    "url": "http://barhatta.netrokona.gov.bd/pages/notices",
+    "base_url": "http://barhatta.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Durgapur Upazila",
+    "name": "দুর্গাপুর উপজেলা",
+    "url": "http://durgapur.netrokona.gov.bd/pages/notices",
+    "base_url": "http://durgapur.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kendua Upazila",
+    "name": "কেন্দুয়া উপজেলা",
+    "url": "http://kendua.netrokona.gov.bd/pages/notices",
+    "base_url": "http://kendua.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Atapara Upazila",
+    "name": "আটপাড়া উপজেলা",
+    "url": "http://atpara.netrokona.gov.bd/pages/notices",
+    "base_url": "http://atpara.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Madan Upazila",
+    "name": "মদন উপজেলা",
+    "url": "http://madan.netrokona.gov.bd/pages/notices",
+    "base_url": "http://madan.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Khaliajuri Upazila",
+    "name": "খালিয়াজুরী উপজেলা",
+    "url": "http://khaliajuri.netrokona.gov.bd/pages/notices",
+    "base_url": "http://khaliajuri.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Kalmakanda Upazila",
+    "name": "কলমাকান্দা উপজেলা",
+    "url": "http://kalmakanda.netrokona.gov.bd/pages/notices",
+    "base_url": "http://kalmakanda.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Mohanganj Upazila",
+    "name": "মোহনগঞ্জ উপজেলা",
+    "url": "http://mohongonj.netrokona.gov.bd/pages/notices",
+    "base_url": "http://mohongonj.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Purbadhola Upazila",
+    "name": "পূর্বধলা উপজেলা",
+    "url": "http://purbadhala.netrokona.gov.bd/pages/notices",
+    "base_url": "http://purbadhala.netrokona.gov.bd",
+    "selector": "table tbody tr",
+    "selenium_enabled": false
+   },
+{
+    "id": "Netrokona Sadar Upazila",
+    "name": "নেত্রকোণা সদর উপজেলা",
+    "url": "http://netrokonasadar.netrokona.gov.bd/pages/notices",
+    "base_url": "http://netrokonasadar.netrokona.gov.bd",
+    "selector": "table tbody tr",
     "selenium_enabled": false
    }
 ]
