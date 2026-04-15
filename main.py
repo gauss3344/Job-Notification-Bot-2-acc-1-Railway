@@ -66,9 +66,10 @@ init_db()
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 KEYWORDS = [
-    "recruitment", "job", "নিয়োগ বিজ্ঞপ্তি", "career", "advertisement",
-    "নিয়োগ", "শূন্যপদ", "শূন্য পদ", "job circular", "vacancy",
-    "appointment", "opportunity"
+    "recruitment", "job", "নিয়োগ", "নিয়োগ", "নিয়োগের", "নিয়োগ বিজ্ঞপ্তি", "career", "advertisement",
+    "নিয়োগ", "শূন্যপদ", "শূন্য পদ", "নিয়োগ বিজ্ঞপ্তি", "চাকরি", "চাকরির", "পদে", "পরীক্ষা", "পরীক্ষার",
+    "ফলাফল", "job circular", "vacancy", "appointment", "প্রবেশ পত্র", "প্রবেশপত্র", 
+    "এডমিট কার্ড", "নির্বাচিত", "পরীক্ষায়", "পরীক্ষার", "নিয়োগের", "opportunity"
 ]
 # ✅ Updated Human-like Headers
 HEADERS = {
